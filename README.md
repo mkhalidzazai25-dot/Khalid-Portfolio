@@ -1,2 +1,2 @@
 # Khalid-Portfolio
-M Khalid Zazai Portfolio
+M Khalid Zazai Personal Portfolio
